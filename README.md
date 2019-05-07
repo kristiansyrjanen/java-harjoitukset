@@ -2,7 +2,7 @@
 Ohjelmointi (Java) kurssin harjoitukset
 
 
-## Ohjelmointi kurssin palautettavat harjouitukset
+## Ohjelmointi kurssin palautettavat harjoitukset
 
 * ***Vko 1***: [Tehtävät](https://github.com/kristiansyrjanen/java-harjoitukset/tree/master/Harjoitus1-5)
 * ***Vko 2***: [Tehtävät](https://github.com/kristiansyrjanen/java-harjoitukset/tree/master/Harjoitus2.1-5)
